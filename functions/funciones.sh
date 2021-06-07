@@ -1,0 +1,35 @@
+#!/bin/bash
+
+. ~/iOSProjects/DictEnEsScript/functions/configuracion-colores.sh
+. ~/iOSProjects/DictEnEsScript/functions/configuracion-directorios.sh
+. ~/iOSProjects/DictEnEsScript/functions/prueba-palabra-audio.sh
+. ~/iOSProjects/DictEnEsScript/functions/printTitle.sh
+. ~/iOSProjects/DictEnEsScript/functions/prueba-palabra-espanol.sh
+. ~/iOSProjects/DictEnEsScript/functions/prueba-palabra-ingles.sh
+. ~/iOSProjects/DictEnEsScript/functions/imprimir-traduccion-ingresada.sh
+. ~/iOSProjects/DictEnEsScript/functions/reproduce-audio.sh
+. ~/iOSProjects/DictEnEsScript/functions/despliega-menu-de-decision.sh
+. ~/iOSProjects/DictEnEsScript/functions/despliega-opcion-agregar-palabra.sh
+. ~/iOSProjects/DictEnEsScript/functions/descargar-audio-de-google.sh
+. ~/iOSProjects/DictEnEsScript/functions/buscar-palabra-en-google.sh
+. ~/iOSProjects/DictEnEsScript/functions/existe-archivo-en-espanol.sh
+. ~/iOSProjects/DictEnEsScript/functions/existe-archivo-en-ingles.sh
+. ~/iOSProjects/DictEnEsScript/functions/agregar-palabra.sh
+. ~/iOSProjects/DictEnEsScript/functions/transfiere-traduccion-espanol.sh
+. ~/iOSProjects/DictEnEsScript/functions/crear-archivo-espanol.sh
+. ~/iOSProjects/DictEnEsScript/functions/transfiere-traduccion-ingles.sh
+. ~/iOSProjects/DictEnEsScript/functions/crear-archivo-ingles.sh
+. ~/iOSProjects/DictEnEsScript/functions/obtener-traduccion.sh
+. ~/iOSProjects/DictEnEsScript/functions/convierte-mp3-wav.sh
+. ~/iOSProjects/DictEnEsScript/functions/descargar-mp3-google.sh
+. ~/iOSProjects/DictEnEsScript/functions/cuenta-lineas-archivo-ingles.sh
+. ~/iOSProjects/DictEnEsScript/functions/cuenta-lineas-archivo-espanol.sh
+. ~/iOSProjects/DictEnEsScript/functions/desplegar-traduccion-espanol.sh
+. ~/iOSProjects/DictEnEsScript/functions/desplegar-traduccion-ingles.sh
+. ~/iOSProjects/DictEnEsScript/functions/imprimir-campos-ingles.sh
+. ~/iOSProjects/DictEnEsScript/functions/obtener-campos-ingles.sh
+. ~/iOSProjects/DictEnEsScript/functions/imprimir-campos-espanol.sh
+. ~/iOSProjects/DictEnEsScript/functions/obtener-campos-espanol.sh
+. ~/iOSProjects/DictEnEsScript/functions/limpiar-archivo-espanol.sh
+. ~/iOSProjects/DictEnEsScript/functions/limpiar-archivo-ingles.sh
+. ~/iOSProjects/DictEnEsScript/functions/prueba-existencia.sh
